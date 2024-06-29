@@ -1,6 +1,6 @@
 <p align="center"><img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'/></p>
 <h1 align="center">Hi 👋, I'm Hesham Muhammed</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A passionate DevOps Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hesham-14&label=Profile%20views&color=0e75b6&style=flat" alt="Hesham-14" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **heshammuhammed14@gmail.com**
 
-- ⚡ Interested in **DevOps & Embedded Systems**
+- ⚡ Interested in **DevOps & Software Development**
 
 <p><img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hesham-14&show_icons=true&locale=en&layout=compact" alt="Hesham-14" /></p>
 
