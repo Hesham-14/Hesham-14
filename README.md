@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hesham-14&label=Profile%20views&color=0e75b6&style=flat" alt="Hesham-14" /> </p>
 
-- 🌱 I’m currently learning **DevOps tools**
-
 - 👨‍💻 All of my projects are available at [**repositories**](https://github.com/Hesham-14?tab=repositories)
 
 - 📫 How to reach me **heshammuhammed14@gmail.com**
